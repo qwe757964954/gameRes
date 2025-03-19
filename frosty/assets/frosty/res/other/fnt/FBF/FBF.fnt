@@ -1,0 +1,20 @@
+info face="Arial" size=216 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=216 base=216 scaleW=0 scaleH=0 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="FBF.png"
+chars count=16
+char id=44   x=2    y=2     width=79    height=216    xoffset=0     yoffset=0     xadvance=79    page=0  chnl=15
+char id=46   x=83    y=2     width=78    height=216    xoffset=0     yoffset=0     xadvance=78    page=0  chnl=15
+char id=48   x=163    y=2     width=154    height=216    xoffset=0     yoffset=0     xadvance=154    page=0  chnl=15
+char id=49   x=319    y=2     width=118    height=216    xoffset=0     yoffset=0     xadvance=118    page=0  chnl=15
+char id=50   x=439    y=2     width=148    height=216    xoffset=0     yoffset=0     xadvance=148    page=0  chnl=15
+char id=51   x=589    y=2     width=154    height=216    xoffset=0     yoffset=0     xadvance=154    page=0  chnl=15
+char id=52   x=745    y=2     width=164    height=216    xoffset=0     yoffset=0     xadvance=164    page=0  chnl=15
+char id=53   x=2    y=220     width=148    height=216    xoffset=0     yoffset=0     xadvance=148    page=0  chnl=15
+char id=54   x=152    y=220     width=147    height=216    xoffset=0     yoffset=0     xadvance=147    page=0  chnl=15
+char id=55   x=301    y=220     width=148    height=216    xoffset=0     yoffset=0     xadvance=148    page=0  chnl=15
+char id=56   x=451    y=220     width=154    height=216    xoffset=0     yoffset=0     xadvance=154    page=0  chnl=15
+char id=57   x=607    y=220     width=151    height=216    xoffset=0     yoffset=0     xadvance=151    page=0  chnl=15
+char id=75   x=2    y=438     width=165    height=216    xoffset=0     yoffset=0     xadvance=165    page=0  chnl=15
+char id=77   x=354    y=438     width=183    height=216    xoffset=0     yoffset=0     xadvance=183    page=0  chnl=15
+char id=107   x=760    y=220     width=165    height=216    xoffset=0     yoffset=0     xadvance=165    page=0  chnl=15
+char id=109   x=169    y=438     width=183    height=216    xoffset=0     yoffset=0     xadvance=183    page=0  chnl=15

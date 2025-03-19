@@ -1,0 +1,22 @@
+info face="Arial" size=19 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=19 base=19 scaleW=0 scaleH=0 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="gameIconFnt.png"
+chars count=18
+char id=32   x=43    y=2     width=11    height=19    xoffset=0     yoffset=0     xadvance=11    page=0  chnl=15
+char id=35   x=2    y=2     width=11    height=19    xoffset=0     yoffset=0     xadvance=11    page=0  chnl=15
+char id=37   x=15    y=2     width=18    height=19    xoffset=0     yoffset=0     xadvance=18    page=0  chnl=15
+char id=43   x=63    y=2     width=10    height=19    xoffset=0     yoffset=0     xadvance=10    page=0  chnl=15
+char id=44   x=35    y=2     width=2    height=19    xoffset=0     yoffset=0     xadvance=2    page=0  chnl=15
+char id=45   x=56    y=2     width=5    height=19    xoffset=0     yoffset=0     xadvance=5    page=0  chnl=15
+char id=46   x=39    y=2     width=2    height=19    xoffset=0     yoffset=0     xadvance=2    page=0  chnl=15
+char id=47   x=195    y=2     width=7    height=19    xoffset=0     yoffset=0     xadvance=7    page=0  chnl=15
+char id=48   x=75    y=2     width=10    height=19    xoffset=0     yoffset=0     xadvance=10    page=0  chnl=15
+char id=49   x=87    y=2     width=6    height=19    xoffset=0     yoffset=0     xadvance=6    page=0  chnl=15
+char id=50   x=95    y=2     width=11    height=19    xoffset=0     yoffset=0     xadvance=11    page=0  chnl=15
+char id=51   x=108    y=2     width=11    height=19    xoffset=0     yoffset=0     xadvance=11    page=0  chnl=15
+char id=52   x=121    y=2     width=11    height=19    xoffset=0     yoffset=0     xadvance=11    page=0  chnl=15
+char id=53   x=134    y=2     width=11    height=19    xoffset=0     yoffset=0     xadvance=11    page=0  chnl=15
+char id=54   x=147    y=2     width=10    height=19    xoffset=0     yoffset=0     xadvance=10    page=0  chnl=15
+char id=55   x=159    y=2     width=10    height=19    xoffset=0     yoffset=0     xadvance=10    page=0  chnl=15
+char id=56   x=171    y=2     width=10    height=19    xoffset=0     yoffset=0     xadvance=10    page=0  chnl=15
+char id=57   x=183    y=2     width=10    height=19    xoffset=0     yoffset=0     xadvance=10    page=0  chnl=15
